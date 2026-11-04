@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoreData> 
+    <storeList> 
+        <Item id ="1" attr = "0" price = "50" num ="0"/><!-- 无敌-->
+        <Item id ="2" attr = "0" price = "10" num ="0"/><!-- 加血-->
+        <Item id ="3" attr = "0" price = "7" num ="0"/><!-- 防御-->
+        <Item id ="4" attr = "10" price = "5" num ="0"/><!-- 速度-->
+    </storeList>
+    <money>100</money>
+</StoreData>

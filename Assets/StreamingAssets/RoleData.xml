@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RoleData>
+    <roleList>
+        <RoleInfo hp="5" speed="6" volume="6" resName="Airplane/Airplane1" scale="15"/>
+        <RoleInfo hp="3" speed="8" volume="4" resName="Airplane/Airplane2" scale="14"/>
+        <RoleInfo hp="6" speed="5" volume="5" resName="Airplane/Airplane3" scale="15"/>
+        <RoleInfo hp="10" speed="3" volume="10" resName="Airplane/Airplane4" scale="5"/>
+        <RoleInfo hp="8" speed="4" volume="8" resName="Airplane/Airplane5" scale="10"/>
+    </roleList>
+</RoleData>
